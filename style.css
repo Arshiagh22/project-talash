@@ -107,4 +107,7 @@ color: #000000;
   .head-bg{
     height: 280px;
   }
+  .fontt{
+    font-size: 12px !important;
+  }
 }
